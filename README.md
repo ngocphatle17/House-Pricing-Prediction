@@ -1,4 +1,4 @@
-California House Price Prediction
+California House Pricing Prediction
 
 This project predicts housing prices in California using the California Housing Dataset. The dataset includes various features like location, number of rooms, population, and proximity to the ocean. The project utilizes different machine learning models, including RandomForestRegressor, with hyperparameter tuning using GridSearchCV to optimize performance.
 
